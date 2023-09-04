@@ -778,10 +778,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/gulp@4.0.10":
-  version "4.0.10"
-  resolved "https://registry.yarnpkg.com/@types/gulp/-/gulp-4.0.10.tgz#d7e2096a9883720f167b84dee52d5219d7d639c5"
-  integrity sha512-spgZHJFqiEJGwqGlf7T/k4nkBpBcLgP7T0EfN6G2vvnhUfvd4uO1h8RwpXOE8x/54DVYUs1XCAtBHkX/R3axAQ==
+"@types/gulp@4.0.13":
+  version "4.0.13"
+  resolved "https://registry.yarnpkg.com/@types/gulp/-/gulp-4.0.13.tgz#033fff1f56c01e3c98ac76ee27361c01bcb08865"
+  integrity sha512-Ms20Q2tZ3MpThZGn4Ag6e7ifz/oQJFxsuiopqz5oHmhE6q2ohnELgafi5K/pKX/4ntlpidS61v/TXAguYsVcaA==
   dependencies:
     "@types/undertaker" ">=1.2.6"
     "@types/vinyl-fs" "*"
