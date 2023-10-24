@@ -737,10 +737,10 @@
     "@types/node" "*"
     "@types/vinyl" "*"
 
-"@types/gulp-csso@4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@types/gulp-csso/-/gulp-csso-4.0.2.tgz#90b047b16eda726a80374c482050947f89d2a35c"
-  integrity sha512-G7QzHgKHBrhAea9YsAwrkUu15TclFVyz9eY8ikcg5/dFwNDz6YyrWFMJ1SntH5QcW8n/Onmhnoaz92y5aks+mQ==
+"@types/gulp-csso@4.0.4":
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/@types/gulp-csso/-/gulp-csso-4.0.4.tgz#7bb34ce07a3d9fd769a0655effa43c7fe447a853"
+  integrity sha512-NH7Ql6KmK1sC/TTHxB5KpR5FwB4ff8QGEfifH8FsNaDZoFNUpqjHt7HEXkmr/qxiNBYNFNSlbQ7tPvPlRGZdIA==
   dependencies:
     "@types/node" "*"
 
